@@ -2,7 +2,7 @@
 ## Overview
 In this project, I analyze the spending patterns for people in India.
 
-I go through their overall spending patterns them go down to the different subgroups provided in the data such as analysing their transactions by age, payment types hours of day etc.
+I go through their overall spending patterns then go down to the different subgroups provided in the data such as analysing their transactions by age, payment types hours of day etc.
 
 I start first by trying to clean any data misalignments, which I found none, then progressively dissect through the data to the different categories. You can find my analysis ([here](https://github.com/evansmwangik/Spending-Habits-for-People-in-India/blob/master/UPI%20Transactions%202024%20Dataset%20EDA1.ipynb))
 
